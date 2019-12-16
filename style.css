@@ -1,0 +1,37 @@
+.site-header  {
+        margin: 0 415px;
+}
+
+.contact {
+    background:#262829;
+    width: 100%;
+    display: inline-block;
+}
+
+.EMAL {
+    float: right;
+}
+
+.PHONE{
+    float: right;
+}
+
+.logo {
+    width: 40%;
+    background: blue;
+    float: left;
+    /* margin: 0 415px; */
+}
+
+.sidbar {
+    background:rgb(31, 151, 31);
+    float: left;
+    /* width: 50%; */
+
+}
+
+nav ul li {
+    display: inline;
+}
+
+
